@@ -6,10 +6,10 @@ I am a supporter of Open Source, and I always try to give "my STUDENT power" to 
 My name is not pronounced as Heekret. It sounds like Heejret.  😆
 
 More detailed me:
-mineral-stone collector
-dried plant (flower and leaf) collector
-language freak 🤡
-amateur star atlas artist
+⭐mineral-stone collector
+⭐dried plant (flower and leaf) collector
+⭐language freak 🤡
+⭐amateur star map artist
 
 <!--
 **siriusm46/siriusm46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
