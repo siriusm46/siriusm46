@@ -1,7 +1,7 @@
 #### Hi there 👋
 I'm a _self-learner_ exploring electronics, interested in hardware design and robotics. I’m currently doing projects with **ARM Cortex M3 and AVR**. In my free time, I love working on _Machine Learning_ and make some patterns with data!
 
-Always trying to give **"my STUDENT power"** to Open Source projects by sharing their good points with my friends and writing about them on my blog. (BIG SUPPORTER ⚡)
+Always trying to give my **" STUDENT power"** to Open Source projects by sharing their good points with my friends and writing about them on my blog. (BIG SUPPORTER ⚡)
 
 Learned-Working on It | Planning to Learn to Use It
 ------------ | -------------
@@ -15,11 +15,12 @@ My name is not pronounced as Heekret. It sounds like Heejret.  😆
 
 More detailed me:
 
-⭐Mineral-stone collector ()
+⭐Mineral-rock collector (128 different types of minerals as far as I can understand)
 
-⭐Dried plant (flower and leaf) collector
+⭐Dried plant (flower and leaf) collector (450+)
 
-⭐Language freak 🤡
+⭐Language freak 🤡 (Native Turkish- Intermediate Korean - N4 Japanese- B1 German- A1 Spanish (Startedto learn only 2 months ago 🚀))
+Planning to learn Chinese- Russian and improve the others! 
 
 ⭐Amateur star map artist
 
