@@ -3,24 +3,32 @@ I'm a _self-learner_ exploring electronics, interested in hardware design and ro
 
 Always trying to give **"my STUDENT power"** to Open Source projects by sharing their good points with my friends and writing about them on my blog. (BIG SUPPORTER ⚡)
 
-Learned-Working on it | My PLANS 
+Learned-Working on it | My PLANS to learn how to use
 ------------ | -------------
 C | C++
 Verilog | VHDL
 KICAD | -
--|SOLIDWORKS or FUSION360
+-|SOLIDWORKS or FUSION360 
 
 
 My name is not pronounced as Heekret. It sounds like Heejret.  😆
 
 More detailed me:
-⭐mineral-stone collector
-⭐dried plant (flower and leaf) collector
-⭐language freak 🤡
-⭐amateur star map artist
+
+⭐Mineral-stone collector ()
+
+⭐Dried plant (flower and leaf) collector
+
+⭐Language freak 🤡
+
+⭐Amateur star map artist
 
 <!--
 **siriusm46/siriusm46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+İmportant links! 
+https://shields.io/
+
 
 Here are some ideas to get you started:
 
