@@ -3,7 +3,7 @@ I'm a _self-learner_ exploring electronics, interested in hardware design and ro
 
 Always trying to give **"my STUDENT power"** to Open Source projects by sharing their good points with my friends and writing about them on my blog. (BIG SUPPORTER ⚡)
 
-Learned-Working on it | My PLANS to learn how to use
+Learned-Working on It | Planning to Learn to Use It
 ------------ | -------------
 C | C++
 Verilog | VHDL
