@@ -19,8 +19,8 @@ More detailed me:
 
 ⭐Dried plant (flower and leaf) collector (450+)
 
-⭐Language freak 🤡 (Native Turkish- Intermediate Korean - N4 Japanese- B1 German- A1 Spanish (Startedto learn only 2 months ago 🚀))
-Planning to learn Chinese- Russian and improve the others! 
+⭐Language freak 🤡 
+Native Turkish- Good at English- Intermediate Korean - N4 Japanese- B1 German- A1 Spanish (Startedto learn only 2 months ago 🚀) Planning to learn Chinese- Russian and improve the others! 
 
 ⭐Amateur star map artist
 
