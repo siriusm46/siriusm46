@@ -17,7 +17,7 @@ More detailed me:
 
 ⭐Mineral-rock collector (128 different types of minerals as far as I can understand)
 
-⭐Dried plant (flower and leaf) collector (450+)
+⭐Herbarium-----Dried plant (flower and leaf) collector (450+) 
 
 ⭐Language freak 🤡 
 Native Turkish- Good at English- Intermediate Korean - N4 Japanese- B1 German- A1 Spanish (It's been 1.5 months 🚀) Planning to learn Chinese- Russian and improve the others! 
