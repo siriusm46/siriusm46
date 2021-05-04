@@ -5,7 +5,7 @@ Always trying to give my **STUDENT power** to Open Source projects by sharing th
 
 Learned-Working on It | Planning to Learn to Use It
 ------------ | -------------
-C/MATLAB | C++
+C/MATLAB | C++/Rust
 Verilog | VHDL
 KICAD | -
 -|SOLIDWORKS or FUSION360 
