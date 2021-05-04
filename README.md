@@ -1,14 +1,15 @@
 #### Hi there 👋
 I'm a _self-learner_ exploring electronics, interested in hardware design and robotics. I’m currently doing projects with **ARM Cortex M3 and AVR**. In my free time, I love working on _Machine Learning_ and make some patterns with data!
 
-Always trying to give my **" STUDENT power"** to Open Source projects by sharing their good points with my friends and writing about them on my blog. (BIG SUPPORTER ⚡)
+Always trying to give my **STUDENT power** to Open Source projects by sharing their good points with my friends and writing about them on my blog. (BIG SUPPORTER ⚡)
 
 Learned-Working on It | Planning to Learn to Use It
 ------------ | -------------
-C | C++
+C/MATLAB | C++
 Verilog | VHDL
 KICAD | -
 -|SOLIDWORKS or FUSION360 
+Python | - 
 
 
 My name is not pronounced as Heekret. It sounds like Heejret.  😆
