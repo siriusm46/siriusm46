@@ -12,8 +12,6 @@ KICAD | -
 Python | - 
 
 
-My name is not pronounced as Heekret. It sounds like Heejret.  😆
-
 Fun Facts!
 
 ⭐Mineral-rock collector (128 different types of minerals as far as I can understand)
