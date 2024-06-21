@@ -9,7 +9,7 @@ C/MATLAB/C# | Rust
 Verilog | VHDL
 KICAD | -
 -|SOLIDWORKS or FUSION360 
-- | Python
+-|Python
 
 
 Fun Facts!
